@@ -35,4 +35,5 @@ Browser: Google Chrome 129.0
 
 App version: Web (latest)
 
-**Attachments:**
+**Attachments:** 
+[![Dropdown Bug Screenshot](images/EmailValidator.png)](images/EmailValidator.png)
