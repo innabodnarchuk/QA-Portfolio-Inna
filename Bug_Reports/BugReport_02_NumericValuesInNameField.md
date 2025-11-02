@@ -42,4 +42,4 @@ Browser: Google Chrome 129.0
 App version: Web (latest)
 
 **Attachments:** 
-[![Dropdown Bug Screenshot](images/NumericValuesInNameField.png)](images/NumericValuesInNameField.png)
+[![Dropdown Bug Screenshot](images/NumericValuesInFirstNameField.png)](images/NumericValuesInFirstNameField.png)
